@@ -1,4 +1,4 @@
-Hello everyone and welcome to the documentation for the <b> Turbo Expo 2021 Tutorial of Basics: From Basics to Turbomachinery Applications</b>.
+Hello everyone and welcome to the documentation for the <b> Turbo Expo 2021 Tutorial of Basics, Neural Networks: From Basics to Turbomachinery Applications</b>.
 
 This folder contains:
 1) DOE.py:   python script to generate a design of experiment for the family of NACA airfoils
